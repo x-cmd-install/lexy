@@ -7,7 +7,7 @@ Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X 
 - **Latest release**: `v0.6.3` (2026-04-21)
 - **Last commit**: 2026-08-10
 - **License**: Apache-2.0
-- **Stars**: 122 · **Forks**: 5 · **Open issues**: 6 · **Contributors**: 5
+- **Stars**: 122 · **Forks**: 4 · **Open issues**: 6 · **Contributors**: 5
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/lexy> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:34:17Z._
+_Last regenerated: 2026-09-09T04:24:14Z._

@@ -4,7 +4,7 @@
 
 Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
 
-![lexy](https://repo.x-cmd.io/lexy.svg)
+![lexy](https://repo.x-cmd.io/lexy.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,13 @@ x install lexy
 - **最新版本**: `v0.6.3` (2026-04-21)
 - **最近提交**: 2026-08-10
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-04-21T13:38:15Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [lexy-0.6.3-py3-none-any.whl](https://github.com/antoniorodr/lexy/releases/download/v0.6.3/lexy-0.6.3-py3-none-any.whl) | 13.2 KiB | `other` |
+| [lexy-0.6.3.tar.gz](https://github.com/antoniorodr/lexy/releases/download/v0.6.3/lexy-0.6.3.tar.gz) | 11.9 KiB | `native/unknown` |
 
 ## 流行度
 
@@ -60,4 +66,4 @@ lexy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:21:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:03:39Z._

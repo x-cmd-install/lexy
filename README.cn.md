@@ -46,12 +46,12 @@ x install lexy
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-15 | 0 | 7 | 0 | 0 | 0 | 3 |
-| last180d | 2026-03-17 | 5 | 9 | 0 | 0 | 0 | 45 |
-| 360d | 2025-09-18 | 10 | 10 | 0 | 2 | 0 | 80 |
-| last720d | 2024-09-23 | 21 | 14 | 0 | 6 | 0 | 125 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-16 | 0 | 5 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-18 | 5 | 9 | 0 | 0 | 0 | 45 |
+| 360d | 2025-09-19 | 10 | 10 | 0 | 2 | 0 | 80 |
+| last720d | 2024-09-24 | 21 | 14 | 0 | 6 | 0 | 125 |
 
 ## Release 资产
 
@@ -59,14 +59,6 @@ x install lexy
 |------|-----:|----------|
 | [lexy-0.6.3-py3-none-any.whl](https://github.com/antoniorodr/lexy/releases/download/v0.6.3/lexy-0.6.3-py3-none-any.whl) | 13.2 KiB | `other` |
 | [lexy-0.6.3.tar.gz](https://github.com/antoniorodr/lexy/releases/download/v0.6.3/lexy-0.6.3.tar.gz) | 11.9 KiB | `native/unknown` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/lexy) 上共有 **6** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.6.3` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -77,4 +69,4 @@ lexy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:33:00Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T04:39:34Z._

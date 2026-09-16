@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12179,
       "digest": "sha256:b2ddfe6321e767055fa2a7adeb5ae381a4e2823ad11442a897b15efa30436a07",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2026-04-21T13:38:15Z",
       "updated_at": "2026-04-21T13:38:16Z",
       "browser_download_url": "https://github.com/antoniorodr/lexy/releases/download/v0.6.3/lexy-0.6.3.tar.gz"

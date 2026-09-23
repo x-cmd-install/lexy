@@ -4,7 +4,7 @@
 
 Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workflow.
 
-[![x-cmd/install — lexy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lexy.svg)](https://x-cmd.com/install/lexy)
+[![x-cmd/install — lexy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lexy.svg)](https://x-cmd.com/install/lexy)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **654** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-24 | 0 | 5 | 0 | 0 | 0 | 3 |
-| last180d | 2026-03-26 | 5 | 9 | 0 | 0 | 0 | 45 |
-| 360d | 2025-09-27 | 10 | 10 | 0 | 2 | 0 | 79 |
-| last720d | 2024-10-02 | 21 | 14 | 0 | 6 | 0 | 125 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-25 | 0 | 5 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-27 | 5 | 9 | 0 | 0 | 0 | 45 |
+| 360d | 2025-09-28 | 10 | 10 | 0 | 2 | 0 | 79 |
+| last720d | 2024-10-03 | 21 | 14 | 0 | 6 | 0 | 125 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for lexy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:35:11Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:31:37Z._

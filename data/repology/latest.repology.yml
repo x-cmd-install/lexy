@@ -1,0 +1,60 @@
+- repo: aur
+  srcname: lexy
+  binname: lexy
+  visiblename: lexy
+  version: 0.6.3
+  origversion: 0.6.3-1
+  status: outdated
+  summary: A CLI tool to fetch tutorials from Learn X in Y Minutes
+  maintainers:
+    - antoniorodr@aur
+  licenses:
+    - MIT
+- repo: gnuguix
+  srcname: lexy
+  binname: lexy
+  visiblename: lexy
+  version: 2025.05.0
+  origversion: null
+  status: newest
+  summary: C++ parser combinator library
+- repo: nix_stable_26_05
+  srcname: lexy
+  visiblename: lexy
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal
+  maintainers:
+    - puiyongqing@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: lexy
+  visiblename: lexy
+  version: 0.6.3
+  origversion: null
+  status: outdated
+  summary: Lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal
+  maintainers:
+    - puiyongqing@gmail.com
+  licenses:
+    - MIT
+- repo: xrepo
+  srcname: lexy
+  visiblename: lexy
+  version: 2022.03.21
+  origversion: null
+  status: legacy
+  summary: C++ parsing DSL
+  licenses:
+    - BSL-1.0
+- repo: xrepo
+  srcname: lexy
+  visiblename: lexy
+  version: 2022.12.1
+  origversion: null
+  status: outdated
+  summary: C++ parsing DSL
+  licenses:
+    - BSL-1.0

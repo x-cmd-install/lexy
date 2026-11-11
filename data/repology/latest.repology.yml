@@ -2,8 +2,8 @@
   srcname: lexy
   binname: lexy
   visiblename: lexy
-  version: 0.6.3
-  origversion: 0.6.3-1
+  version: 0.6.4
+  origversion: 0.6.4-1
   status: outdated
   summary: A CLI tool to fetch tutorials from Learn X in Y Minutes
   maintainers:

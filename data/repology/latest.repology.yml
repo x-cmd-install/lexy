@@ -1,3 +1,11 @@
+- repo: gnuguix
+  srcname: lexy
+  binname: lexy
+  visiblename: lexy
+  version: 2025.05.0
+  origversion: null
+  status: newest
+  summary: C++ parser combinator library
 - repo: aur
   srcname: lexy
   binname: lexy
@@ -10,14 +18,6 @@
     - antoniorodr@aur
   licenses:
     - MIT
-- repo: gnuguix
-  srcname: lexy
-  binname: lexy
-  visiblename: lexy
-  version: 2025.05.0
-  origversion: null
-  status: newest
-  summary: C++ parser combinator library
 - repo: nix_stable_26_05
   srcname: lexy
   visiblename: lexy
@@ -32,7 +32,7 @@
 - repo: nix_unstable
   srcname: lexy
   visiblename: lexy
-  version: 0.6.3
+  version: 0.6.4
   origversion: null
   status: outdated
   summary: Lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal

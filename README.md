@@ -14,13 +14,13 @@ x install lexy
 
 ## Code insight
 
-Total: **654** lines of code across **21** files in the top 5 languages.
+Total: **658** lines of code across **32** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 482 | 0 | 83 | 8 |
+| Python | 486 | 0 | 83 | 19 |
 | Toml | 172 | 236 | 53 | 3 |
-| Markdown | 0 | 540 | 246 | 10 |
+| Markdown | 0 | 567 | 251 | 10 |
 
 ## Source
 
@@ -30,8 +30,8 @@ Total: **654** lines of code across **21** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.6.4` (2026-11-10)
-- **Last commit**: 2026-11-10
+- **Latest**: `v0.7.0` (2026-11-17)
+- **Last commit**: 2026-11-17
 - **Assets in release**: 2
 
 ## Popularity
@@ -40,25 +40,25 @@ Total: **654** lines of code across **21** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 16 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 132
+- **Releases**: 23 · **Merged PRs**: 17 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 153
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 2 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-18 | 1 | 2 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-19 | 1 | 2 | 0 | 0 | 0 | 5 |
-| last180d | 2026-05-21 | 1 | 9 | 0 | 0 | 0 | 10 |
-| 360d | 2025-11-22 | 8 | 11 | 0 | 1 | 0 | 72 |
-| last720d | 2024-11-27 | 22 | 16 | 0 | 6 | 0 | 132 |
+| 30d | 2026-10-20 | 2 | 3 | 0 | 0 | 0 | 25 |
+| last60d | 2026-09-20 | 2 | 3 | 0 | 0 | 0 | 25 |
+| 90d | 2026-08-21 | 2 | 3 | 0 | 0 | 0 | 25 |
+| last180d | 2026-05-23 | 2 | 10 | 0 | 0 | 0 | 30 |
+| 360d | 2025-11-24 | 9 | 12 | 0 | 1 | 0 | 92 |
+| last720d | 2024-11-29 | 23 | 17 | 0 | 6 | 0 | 153 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [lexy-0.6.4-py3-none-any.whl](https://github.com/antoniorodr/lexy/releases/download/v0.6.4/lexy-0.6.4-py3-none-any.whl) | 13.2 KiB | `other` |
-| [lexy-0.6.4.tar.gz](https://github.com/antoniorodr/lexy/releases/download/v0.6.4/lexy-0.6.4.tar.gz) | 11.9 KiB | `native/unknown` |
+| [lexy-0.7.0-py3-none-any.whl](https://github.com/antoniorodr/lexy/releases/download/v0.7.0/lexy-0.7.0-py3-none-any.whl) | 15.4 KiB | `other` |
+| [lexy-0.7.0.tar.gz](https://github.com/antoniorodr/lexy/releases/download/v0.7.0/lexy-0.7.0.tar.gz) | 2.9 MiB | `native/unknown` |
 
 ## Distribution status
 
@@ -66,7 +66,7 @@ Reported by **6** distros on [repology.org](https://repology.org/project/lexy). 
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.6.3` | ⚠️ outdated |
+| Nix unstable | `0.6.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for lexy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:41:41Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:04:02Z._

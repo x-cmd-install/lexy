@@ -1,11 +1,18 @@
-- repo: gnuguix
+- repo: altsisyphus
   srcname: lexy
-  binname: lexy
+  binnames:
+    - lexy-devel
   visiblename: lexy
   version: 2025.05.0
-  origversion: null
+  origversion: 2025.05.0-alt1
   status: newest
-  summary: C++ parser combinator library
+  summary: C++ parsing DSL
+  maintainers:
+    - brow@altlinux.org
+  licenses:
+    - BSL-1.0
+  categories:
+    - Development/C++
 - repo: aur
   srcname: lexy
   binname: lexy
@@ -18,6 +25,14 @@
     - antoniorodr@aur
   licenses:
     - MIT
+- repo: gnuguix
+  srcname: lexy
+  binname: lexy
+  visiblename: lexy
+  version: 2025.05.0
+  origversion: null
+  status: newest
+  summary: C++ parser combinator library
 - repo: nix_stable_26_05
   srcname: lexy
   visiblename: lexy

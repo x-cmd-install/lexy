@@ -46,12 +46,12 @@ Total: **658** lines of code across **32** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 3 | 0 | 0 | 0 | 23 |
-| last60d | 2026-09-27 | 2 | 3 | 0 | 0 | 0 | 25 |
-| 90d | 2026-08-28 | 2 | 3 | 0 | 0 | 0 | 25 |
-| last180d | 2026-05-30 | 2 | 10 | 0 | 0 | 0 | 30 |
-| 360d | 2025-12-01 | 9 | 12 | 0 | 1 | 0 | 92 |
-| last720d | 2024-12-06 | 23 | 17 | 0 | 6 | 0 | 153 |
+| 30d | 2026-10-28 | 2 | 1 | 0 | 0 | 0 | 23 |
+| last60d | 2026-09-28 | 2 | 3 | 0 | 0 | 0 | 25 |
+| 90d | 2026-08-29 | 2 | 3 | 0 | 0 | 0 | 25 |
+| last180d | 2026-05-31 | 2 | 10 | 0 | 0 | 0 | 30 |
+| 360d | 2025-12-02 | 9 | 12 | 0 | 1 | 0 | 92 |
+| last720d | 2024-12-07 | 23 | 17 | 0 | 6 | 0 | 153 |
 
 ## Release assets
 
@@ -59,14 +59,6 @@ Total: **658** lines of code across **32** files in the top 5 languages.
 |-------|-----:|--------|
 | [lexy-0.7.0-py3-none-any.whl](https://github.com/antoniorodr/lexy/releases/download/v0.7.0/lexy-0.7.0-py3-none-any.whl) | 15.4 KiB | `other` |
 | [lexy-0.7.0.tar.gz](https://github.com/antoniorodr/lexy/releases/download/v0.7.0/lexy-0.7.0.tar.gz) | 2.9 MiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/lexy). **2** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.6.4` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -77,4 +69,4 @@ Install metadata for lexy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T07:58:15Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:00:11Z._

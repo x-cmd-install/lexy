@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3066576,
       "digest": "sha256:1d6d6cc5b56d98e6d093454986df59a3b83e807437c38990490d183ab0949081",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-11-17T13:09:53Z",
       "updated_at": "2026-11-17T13:09:54Z",
       "browser_download_url": "https://github.com/antoniorodr/lexy/releases/download/v0.7.0/lexy-0.7.0.tar.gz"
